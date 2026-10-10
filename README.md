@@ -19,11 +19,11 @@ I love building tools to solve real-world problems—starting with projects for 
 <p>
  
   <img src="https://streak-stats.demolab.com/?user=ElyOgl&theme=transparent&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ElyOgl&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+ </p>
+ <p>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ElyOgl&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
-</p>
- <img src="https://github-readme-stats.shion.dev/api?username=ElyOgl&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-<p>
+
   
 
 </div>
