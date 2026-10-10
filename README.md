@@ -1,6 +1,3 @@
-# 💫 About Me:
-# Hi there, I'm [Your Name] 👋
-
 🎓 **Maths & Data Science Student** | 🛠️ **Tinker & Tech Enthusiast**
 
 I love building tools to solve real-world problems—starting with projects for myself and family, and sharing them open-source whenever they might help others. I'm actively looking to connect with the developer community, collaborate on projects, and learn alongside experienced builders!
