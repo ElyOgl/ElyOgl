@@ -2,6 +2,12 @@
 
 I love building tools to solve real-world problems—starting with projects for myself and family, and sharing them open-source whenever they might help others. I'm actively looking to connect with the developer community, collaborate on projects, and learn alongside experienced builders!
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElyOgl/ElyOgl/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElyOgl/ElyOgl/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ElyOgl/ElyOgl/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
 
 ### 💡 What I'm Up To
